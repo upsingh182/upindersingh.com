@@ -1,0 +1,9 @@
+{
+  // Cloudflare deploy settings: serve the files in ./public as a static site.
+  // workers_dev / preview_urls off: the site is only reachable on its own domain.
+  "name": "upindersingh",
+  "compatibility_date": "2026-11-01",
+  "workers_dev": false,
+  "preview_urls": false,
+  "assets": { "directory": "./public", "not_found_handling": "404-page" }
+}
