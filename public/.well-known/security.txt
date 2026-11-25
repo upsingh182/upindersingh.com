@@ -1,0 +1,4 @@
+Contact: mailto:hello@upindersingh.com
+Expires: 2027-11-24T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://upindersingh.com/.well-known/security.txt
